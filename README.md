@@ -2,7 +2,7 @@
 
 The R implementation of the proposed method, a simulated example dataset, and an example analysis script are provided
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 Files included:
 
 1. analysis.R :
@@ -21,9 +21,9 @@ Files included:
 
 Before running the example, please make sure that analysis.R, example_dataset.csv, and run example_dataset.R are in the same folder.
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
-
-Notes!
+Note:
 
 The provided dataset is simulated and is intended only to illustrate the implementation of the proposed method.
 It is not intended to reproduce the full Monte Carlo simulation results reported in the manuscript.
