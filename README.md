@@ -22,7 +22,8 @@ Files included:
 Before running the example, please make sure that analysis.R, example_dataset.csv, and run example_dataset.R are in the same folder.
 
 
-Notes
+
+Notes!
 
 The provided dataset is simulated and is intended only to illustrate the implementation of the proposed method.
 It is not intended to reproduce the full Monte Carlo simulation results reported in the manuscript.
