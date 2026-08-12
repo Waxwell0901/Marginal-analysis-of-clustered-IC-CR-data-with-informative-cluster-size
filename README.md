@@ -5,14 +5,17 @@ The R implementation of the proposed method, a simulated example dataset, and an
 
 Files included:
 
-1. analysis.R 
+1. analysis.R :
+   
        Main R function implementing the proposed marginal analysis procedure based on the generalized odds-rate transformation model
        using B-spline-based sieve estimation.
 
-2. example_dataset.csv 
+2. example_dataset.csv :
+   
        A simulated example dataset illustrating the required input data structure.
 
-3. run example_dataset.R 
+3. run example_dataset.R :
+
        Example R script demonstrating how to load the proposed method, read the simulated example dataset, fit the model, and obtain
        regression coefficient estimates.
 
